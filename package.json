@@ -20,6 +20,7 @@
     "express-flash": "0.0.2",
     "express-handlebars": "^3.1.0",
     "express-session": "^1.17.0",
+    "financejs": "^4.1.0",
     "lusca": "^1.6.1",
     "mongoose": "^5.7.7"
   }
